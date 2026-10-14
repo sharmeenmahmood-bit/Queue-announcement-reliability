@@ -1,0 +1,13 @@
+scenario,method,customers who left %,avg wait of served (min),customers served,broken %,avg margin (min)
+S1_rush_hour,none,0.0,10.21,203.86,,0.0
+S1_rush_hour,M1,3.69,6.01,196.04,43.76,0.0
+S1_rush_hour,M2,5.72,4.72,191.88,10.09,4.86
+S1_rush_hour,M4,5.73,4.68,191.83,11.27,4.71
+S1_rush_hour,M5,5.73,4.68,191.83,11.27,4.71
+S1_rush_hour,M6,6.19,4.39,190.9,10.66,4.6
+S2_counter_closes,none,0.0,12.85,191.52,,0.0
+S2_counter_closes,M1,4.57,7.3,182.46,51.62,0.0
+S2_counter_closes,M2,6.39,5.7,178.97,17.62,4.86
+S2_counter_closes,M4,7.29,5.38,177.21,16.44,5.66
+S2_counter_closes,M5,7.39,4.84,177.04,11.77,4.82
+S2_counter_closes,M6,7.8,4.53,176.26,11.18,4.79

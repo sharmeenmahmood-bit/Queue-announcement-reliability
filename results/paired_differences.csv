@@ -1,0 +1,5 @@
+scenario,correction (M4 - M5),length scaling (M5 - M6),total (M4 - M6)
+S0_normal,0.0 +/- 0.0,0.7 +/- 0.6,0.7 +/- 0.6
+S1_rush_hour,0.0 +/- 0.0,3.1 +/- 0.7,3.1 +/- 0.7
+S2_counter_closes,5.2 +/- 0.8,3.2 +/- 0.6,8.5 +/- 1.1
+S3_slow_growth,0.0 +/- 0.0,4.0 +/- 0.7,4.0 +/- 0.7
